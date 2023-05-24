@@ -1,0 +1,214 @@
+body{
+    background-color: rgb(17, 17, 17);
+} 
+
+.upperBody0{
+
+    height: 100px;
+    width: 1440px;
+    background-color:  #656CEC;
+    
+
+}
+.strip{
+    height:1px;
+    width: 1440px;
+    background-color: #FFFF; 
+    margin-top: -40px;}
+
+.header{
+    color: white;
+    font-size: 64px;
+    font-family: 'Segoe UI';
+    margin-left: 558px;
+    width:362px;
+
+}
+
+.outerBody{
+
+    height: fit-content;
+    width: 1440px;
+    background-color: #FFFF;
+    margin-top: 30px;
+    margin-left: 25px;
+    flex: 2;
+
+
+
+
+}
+.upperBody{
+    height: 508px;
+    width: 1440px;
+    margin-bottom: 2px;
+    border-radius: 64px;
+    background-color:  #656CEC;
+    
+
+}
+
+.insideBody{
+    height: 100px;
+    width: 1440px;
+    border-radius: 0px;
+    background-color:  #D2D4F2;
+    margin-top: 10px;
+    align-items: flex-start;
+    flex:1;
+}
+.div{
+    display: inline-block;
+}
+.third{
+    display: inline-block;
+    background-color:#BABEFF ; 
+    margin-top: 90px;
+    margin-left: 120.06px;  
+    width: 160px;
+    height: 160px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: white;
+    border-radius:200px;
+    box-shadow: 4px 3px 4px 2px rgb(72, 69, 69);
+}
+.first{
+    display: inline-block;
+    background-color:#BABEFF ; 
+    margin-top: 90px;
+    margin-left: 120.06px;
+     width: 214.86px;
+    height: 214.86px; 
+    border-style: solid;
+    border-width: 7px;
+    border-color: white;
+    border-radius:200px;
+    box-shadow: 4px 6px 4px 2px rgb(49, 48, 48);
+}
+
+.second{
+    display: inline-block;
+    background-color:#BABEFF ; 
+     margin-top: 90px;
+     margin-left: 320px;  
+    width: 160px;
+    height: 160px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: white;
+    border-radius:200px;
+    box-shadow: 4px 3px 4px 2px rgb(72, 69, 69);
+}
+
+
+
+.position{
+    display:inline-block;
+    color: black;
+    font-size: 32px;
+    font-family: 'Inter';
+    margin-left: 44px;
+    position: absolute;
+    margin-top: 30px;
+
+    
+}
+.pic{
+    display:inline-block;
+    width: 74.2px;
+    height: 74.2px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: white;
+    border-radius:38px;
+    background-color: #BABEFF;
+    margin-left: 131.9px;
+    margin-top: 13.79px;
+    position: absolute;
+}
+.name{
+    display:inline-block;
+    color: black;
+    font-size: 32px;
+    margin-left: 300px;
+    margin-top: 30px;
+    position: absolute;
+    font-family: 'Inter';    
+
+}
+.points{
+    display:inline-block;
+    color: black;
+    font-size: 32px;
+    margin-left:1123px;
+    margin-top: 30px;
+    position: absolute;
+    font-family: 'Inter';
+
+}
+
+.nameSecond{
+    display: inline-block;
+    position: absolute;
+    margin-top:300px;
+    margin-left:-190px;
+    color: #FFFF;
+    font-family: 'Inter';
+    font-size: 20px;
+    background-color: #BABEFF;
+    width:220px;
+    height: max-content;
+    flex:1;
+    border-radius: 17px;
+    text-align: left;
+    padding-left: 10px;
+}
+
+.pointsSecond{
+    display: inline-block;
+    position: absolute;
+    margin-top:300px;
+    margin-left: -20px;
+    font-family: 'Inter';
+    color: #FFFF;
+    font-size: 20px;
+    background-color: #BABEFF;
+    width:50px;
+    height: max-content;
+    border-radius: 17px;
+    text-align: center;
+}
+
+.namefirst{
+    display: inline-block;
+    position: absolute;
+    margin-top: 340px;
+    margin-left: -220px; 
+    font-size:20px;
+    color: #FFFF;
+    font-family: 'Inter';
+    background-color: #BABEFF;
+    width:  220px;
+    height: max-content;
+    border-radius: 17px;
+    text-align: left;
+    padding-left: 10px;
+}
+.pointsfirst{
+    display: inline-block;
+    position: absolute;
+    margin-top: 340px;
+    margin-left:-20px; 
+    font-size: 20px;
+    font-family: 'Inter';
+    color: #FFFF;
+    background-color: #BABEFF;
+    width:50px;
+    height: max-content;
+    border-radius: 17px;
+}
+
+
+
+
